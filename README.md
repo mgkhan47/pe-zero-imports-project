@@ -23,12 +23,14 @@ Manual implementation of GetModuleHandle and GetProcAddress
 ✔️ Uses only low-level data structures
 
 🗂️ Project Structure
+/
 ├── PEstructs.h     # PE and Windows internal structure definitions
 ├── helpers.h       # Function declarations and utilities
 ├── helpers.cpp     # Manual API resolution logic (PEB + Export parsing)
 └── implant.cpp     # Main program logic (entry point)
 
 🧩 File Descriptions
+
 PEstructs.h
 Contains custom definitions for:
 PE headers
@@ -67,6 +69,7 @@ The compiled binary can be verified using tools such as:
 PE-bear
 CFF Explorer
 PE Studio
+
 Expected result:
 Import Address Table is empty
 No visible API strings
