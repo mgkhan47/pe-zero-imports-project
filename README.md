@@ -30,7 +30,7 @@ The goal of this project is **educational**, focusing on understanding:
 ---
 
 ## 🗂️ **Project Structure**
-
+```bash
 /
 ├── PEstructs.h # PE and Windows internal structure definitions
 ├── helpers.h # Function declarations and utilities
