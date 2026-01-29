@@ -36,7 +36,7 @@ The goal of this project is **educational**, focusing on understanding:
 ├── helpers.h # Function declarations and utilities
 ├── helpers.cpp # Manual API resolution logic (PEB + Export parsing)
 └── implant.cpp # Main program logic (entry point)
-
+```
 ---
 
 ## 🧩 **File Descriptions**
