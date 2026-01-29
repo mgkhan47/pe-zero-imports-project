@@ -119,10 +119,3 @@ This project demonstrates practical usage of:
 This project is intended **strictly for educational and research purposes** to understand the **Windows PE format** and **dynamic linking internals**.
 
 🚫 **Do NOT use this code in unauthorized or malicious environments.**
-
----
-
-## 👨‍💻 **Authors**
-
-- **M Gulraiz Khan**
-- **Haider Mustafa**
